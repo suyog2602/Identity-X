@@ -19,7 +19,7 @@ The platform strictly adheres to **responsible AI ethics**: it operates as a dec
 
 ## 📑 Official SIH 2026 Presentation Deck Included
 This repository includes the complete 6-slide PowerPoint presentation matching the official SIH 2026 template:
-* 📁 **[IDENTITY-X_SIH2026_HexaCore.pptx](./IDENTITY-X_SIH2026_HexaCore.pptx)**
+* 📁 **[IDENTITY-X_SIH2026_HexaCore.pptx](https://canva.link/61a0snz12zah1ha)**
 * 🖥️ **Interactive In-App Presentation Viewer:** Navigate to /pitch-deck in the running application to preview all 6 slides in 16:9 widescreen with speaker notes.
 
 ---
